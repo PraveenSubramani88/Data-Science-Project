@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # AVIVO RAG Telegram Bot
 
 ## Overview
