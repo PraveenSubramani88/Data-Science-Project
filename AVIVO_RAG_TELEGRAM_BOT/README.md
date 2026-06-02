@@ -297,15 +297,44 @@ I could not find that information in the knowledge base.
 
 ---
 
+## Sample Questions
+
+## IT FAQ
+
+1. What should an employee do if their account is locked?
+2. What is Multi-Factor Authentication (MFA)?
+3. Can employees install any software on company laptops?
+4. What should an employee do if they receive a phishing email?
+5. How can a new laptop be requested?
+6. How often must employees change their passwords?
+7. What are the IT Help Desk working hours?
+8. What are the minimum specifications of the standard company laptop?
+9. How quickly are critical IT tickets resolved?
+10. Is manager approval required for laptop requests?
+
+---
+
+## Company Policies
+
+1. What company assets are provided for business use?
+2. What should employees do if they cannot attend work?
+3. What are the standard working hours?
+4. Is overtime work allowed without manager approval?
+5. How many sick leave days does the company provide?
+6. What disciplinary actions can result from policy violations?
+7. What is the company's policy on workplace harassment?
+8. Can unused annual leave be carried forward?
+9. What information is considered confidential?
+10. How many annual leave days are employees entitled to?
+
+---
+
 ## Author
 
 Praveen Subramani
 
 Built as part of a GenAI / RAG bot assignment demonstrating Retrieval-Augmented Generation, vector search, local LLM inference, and Telegram integration.
 
- 
-
 ---
 
 📌 Feel free to fork, contribute, or reach out for collaboration. Let's build together! 💪🚀
->>>>>>> d1332240345cd34fd1e3f84e6da601b41f0999c6
