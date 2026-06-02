@@ -1,0 +1,8 @@
+python-telegram-bot==22.1
+sentence-transformers==5.1.0
+numpy==2.3.1
+scikit-learn==1.7.0
+ollama==0.5.3
+python-dotenv==1.1.1
+chromadb==1.0.15
+gradio==5.38.0
